@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News component Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root sc-AxjAm hSVQxc MuiPaper-elevation1 MuiPaper-rounded"
+    data-testid="news-content"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+      >
+        [Football] Real Madrid and ban give Pep Guardiola highest-stakes test yet
+      </p>
+    </div>
+    <div
+      class="MuiCardActions-root sc-AxirZ dPyOpm MuiCardActions-spacing"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSizeSmall MuiButton-sizeSmall"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Learn More
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+      <span
+        class="MuiTypography-root MuiTypography-caption"
+      >
+        25/02/2020 16:00:35
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

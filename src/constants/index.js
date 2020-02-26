@@ -1,0 +1,6 @@
+export const START_LOAD_NEWS = 'START_LOAD_NEWS'
+export const END_LOAD_NEWS = 'END_LOAD_NEWS'
+export const SET_NEWS = 'SET_NEWS'
+export const ADD_NEWS = 'ADD_NEWS'
+export const SHOW_NOTIFICATION = 'SHOW_NOTIFICATION'
+export const HIDE_NOTIFICATION = 'HIDE_NOTIFICATION'
